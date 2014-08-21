@@ -1,3 +1,6 @@
+
+#La ejecucion se realizo en ipython netbook
+
 #Trabajo 1 Ayudantia
 
 #Paula Lineros E.
@@ -6,7 +9,6 @@
 #Pedro Salas V.
 
 
-#La ejecucion se realizo en ipython netbook
 
 n = 600851475143
 
