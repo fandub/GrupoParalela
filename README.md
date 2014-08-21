@@ -1,0 +1,4 @@
+GrupoParalela
+=============
+
+Repositorio Computacion Paralela 
